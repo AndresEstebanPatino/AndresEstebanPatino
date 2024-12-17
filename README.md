@@ -23,5 +23,4 @@
 <h2>⚡️ Puedes contactar conmig en:</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/estebanpatino" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AndresEstebanPatino&show_icons=true&locale=en" alt="AndresEstebanPatino" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AndresEstebanPatino&" alt="AndresEstebanPatino" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndresEstebanPatino&show_icons=true&locale=en&layout=compact" alt="AndresEstebanPatino" /></p>
